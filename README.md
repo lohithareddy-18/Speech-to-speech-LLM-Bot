@@ -24,9 +24,8 @@ An advanced conversational AI bot that leverages large language models (LLMs) fo
    cd speech-to-speech-llm-bot
 2. Install dependencies:
 
-'''bash
+ ```bash
 pip install -r requirements.txt
-
 3. Set up API keys (if using external services like OpenAI or Google):
 Create a .env file and add your API keys:
 makefile
