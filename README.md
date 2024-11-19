@@ -3,8 +3,6 @@ Speech-to-Speech Conversational LLM Bot
 
 An advanced conversational AI bot that enables real-time speech-to-speech interactions. This bot utilizes state-of-the-art large language models (LLMs) to understand user inputs and generate intelligent, context-aware responses in the form of synthesized speech.
 
-
-                      https://www.google.com/imgres?q=speech%20to%20speech%20llm%20bot&imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1*UQdZCE8jsLspD0lJJ89pQQ.png&imgrefurl=https%3A%2F%2Ftowardsdatascience.com%2Fai-chatbot-with-nlp-speech-recognition-transformers-583716a299e9&docid=NlLmL3nhe-zTcM&tbnid=lAjpd-D6KhC2lM&vet=12ahUKEwivw4D5vOiJAxWrr1YBHa5YBd4QM3oECFUQAA..i&w=1400&h=549&hcb=2&ved=2ahUKEwivw4D5vOiJAxWrr1YBHa5YBd4QM3oECFUQAA
 Features
 Real-Time Speech Recognition: Converts user voice input to text using cutting-edge speech recognition tools.
 Natural Language Processing: Uses LLMs for accurate, context-aware, and conversational responses.
