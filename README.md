@@ -21,7 +21,7 @@ API keys for external services (if applicable)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/speech-to-speech-llm-bot.git
+git clone (https://github.com/lohithareddy-18/Speech-to-speech-LLM-Bot/)
 cd speech-to-speech-llm-bot
 Install dependencies:
 pip install -r requirements.txt
